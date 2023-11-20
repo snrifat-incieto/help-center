@@ -11,7 +11,7 @@ const config: DocsThemeConfig = {
   },
   docsRepositoryBase: 'https://incieto.com',
   footer: {
-    text: 'Copyright &#169 2023- Incieto. All right reserved.',
+    text: 'Copyright © 2023- Incieto. All right reserved.',
   },
 }
 
